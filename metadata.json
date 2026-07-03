@@ -1,0 +1,6 @@
+{
+  "name": "EGX Pro Analyzer",
+  "description": "برنامج احترافي لتحليل الأسهم في البورصة المصرية (EGX) وتحديد الأسهم الأكثر صعوداً وتوفير تقارير فنية ومستويات الدعم والمقاومة مع تنبيهات لحظية عبر تليجرام.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
